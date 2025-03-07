@@ -1,0 +1,7 @@
+maven archetype:generate - to generate a sample maven project
+mvn validate - to check if the project is valid or not i.e checks if pom file is present or not
+mvn complie - to complie and create class files
+mvn test - runs the unit tests 
+mvn package - creates a executable file i.e jar file, builds the project
+when mvn install is executed all the 8 phases will execute not a single phases
+mvn clean - cleans the build packages
